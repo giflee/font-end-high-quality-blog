@@ -6,5 +6,5 @@ http://www.cnblogs.com/rubylouvre/
 去哪儿网前端架构师司徒正美的个人博客<br>
 http://www.liaoxuefeng.com
 廖雪峰的官方博客<br>
-http://www.jiawin.com/<br>
+http://www.jiawin.com/
 出色的用户体验设计分享平台
