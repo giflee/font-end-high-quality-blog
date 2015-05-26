@@ -7,4 +7,4 @@ http://www.cnblogs.com/rubylouvre/
 http://www.liaoxuefeng.com
 廖雪峰的官方博客<br>
 http://www.jiawin.com/
-出色的用户体验设计分享平台
+觉维——出色的用户体验设计分享平台
