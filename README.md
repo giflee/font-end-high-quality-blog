@@ -7,4 +7,5 @@ http://www.cnblogs.com/rubylouvre/
 http://www.liaoxuefeng.com
 廖雪峰的官方博客<br>
 http://www.jiawin.com/
-觉维——出色的用户体验设计分享平台
+觉维——出色的用户体验设计分享平台<br>
+http://fex.baidu.com/百度FEX一直很牛逼，FEX 是百度「Web 前端研发部」的内部名称，其中 FE 是 Front End 的缩写，X 代表他们不仅关注前端技术，还更重视全端及全栈的能力。开源项目很多。很多思想值得我们学习。
