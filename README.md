@@ -12,4 +12,5 @@ http://fex.baidu.com/ 百度FEX一直很牛逼，FEX 是百度「Web 前端研�
 http://www.html-js.com/  最专业的前端技术内容社区<br>
 http://www.cnblogs.com/sharpxiajun/ 夏天的森林，博客形式主要以“连载”为主，不得不说，你的花一些时间去学习，看过之后能够对于JavaScript的某一些方面有很深的理解.<br>
 http://www.cnblogs.com/TomXu/   应该很多搞前端的人都看过汤姆大叔的书，他的博客园里面东西很多很多，值得常去看看。<br>
-https://bonsaiden.github.io/JavaScript-Garden/zh/  超级推荐这个,JavaScript秘密花园是一个不断更新的文档，主要关心JavaScript一些古怪用法。 对于如何避免常见的错误，难以发现的问题，以及性能问题和不好的实践给出建议， 初学者可以籍此深入了解JavaScript的语言特性。
+https://bonsaiden.github.io/JavaScript-Garden/zh/  超级推荐这个,JavaScript秘密花园是一个不断更新的文档，主要关心JavaScript一些古怪用法。 对于如何避免常见的错误，难以发现的问题，以及性能问题和不好的实践给出建议， 初学者可以籍此深入了解JavaScript的语言特性。<br>
+http://www.whycss.com/   当你看到这里来了，证明这个才是好东西，简历ctrl+d，前端导航网站，分类不错，小东西很多。
