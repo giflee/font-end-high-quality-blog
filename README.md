@@ -14,4 +14,5 @@ http://www.cnblogs.com/sharpxiajun/ 夏天的森林，博客形式主要以“�
 http://www.cnblogs.com/TomXu/   应该很多搞前端的人都看过汤姆大叔的书，他的博客园里面东西很多很多，值得常去看看。<br>
 https://bonsaiden.github.io/JavaScript-Garden/zh/  超级推荐这个,JavaScript秘密花园是一个不断更新的文档，主要关心JavaScript一些古怪用法。 对于如何避免常见的错误，难以发现的问题，以及性能问题和不好的实践给出建议， 初学者可以籍此深入了解JavaScript的语言特性。<br>
 http://www.whycss.com/   当你看到这里来了，证明这个才是好东西，简历ctrl+d，前端导航网站，分类不错，小东西很多。<br>
-http://www.aliued.cn/   阿里巴巴中国站UED成立于1999年，全称是用户体验设计部（User Experience Design Department），是阿里巴巴集团最资深的部门之一。
+http://www.aliued.cn/   阿里巴巴中国站UED成立于1999年，全称是用户体验设计部（User Experience Design Department），是阿里巴巴集团最资深的部门之一。<br>
+http://ued.ctrip.com/blog/   这是一个血液中流淌着创意和活力的团队，在越来越关注严谨和灵活的过程中成长起来，我们对前端的需求如此强烈
