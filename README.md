@@ -17,4 +17,5 @@ http://www.whycss.com/   当你看到这里来了，证明这个才是好东西�
 http://www.aliued.cn/   阿里巴巴中国站UED成立于1999年，全称是用户体验设计部（User Experience Design Department），是阿里巴巴集团最资深的部门之一。<br>
 http://ued.ctrip.com/blog/   这是一个血液中流淌着创意和活力的团队，在越来越关注严谨和灵活的过程中成长起来，我们对前端的需求如此强烈<br>
 http://ued.sina.com/   一个关注用户体验、关注工作流、关注作品质量的有爱团队。<br>
-http://uedc.163.com/   网易前端团队，关注用户体验设计、关注web前端开发。
+http://uedc.163.com/   网易前端团队，关注用户体验设计、关注web前端开发。<br>
+http://yuguo.us/weblog/   余果，腾讯ISUX前端开发设计师。
