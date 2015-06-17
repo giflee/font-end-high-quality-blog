@@ -19,4 +19,5 @@ http://ued.ctrip.com/blog/   这是一个血液中流淌着创意和活力的团
 http://ued.sina.com/   一个关注用户体验、关注工作流、关注作品质量的有爱团队。<br>
 http://uedc.163.com/   网易前端团队，关注用户体验设计、关注web前端开发。<br>
 http://yuguo.us/weblog/   余果，腾讯ISUX前端开发设计师。<br>
-http://heiniuhaha.cnblogs.com/   WEB前端开发工程师的随记–黑妞HAHA
+http://heiniuhaha.cnblogs.com/   WEB前端开发工程师的随记–黑妞HAHA<br>
+http://www.koubei.com/  口碑生活UED(User Experience Design) 中文意思就是用户体验设计。
