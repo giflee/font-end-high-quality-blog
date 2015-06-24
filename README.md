@@ -22,4 +22,5 @@ http://yuguo.us/weblog/   余果，腾讯ISUX前端开发设计师。<br>
 http://heiniuhaha.cnblogs.com/   WEB前端开发工程师的随记–黑妞HAHA<br>
 http://www.koubei.com/  口碑生活UED(User Experience Design) 中文意思就是用户体验设计。<br>
 http://blog.csdn.net/soso_blog   腾讯soso团队博客<br>
-http://www.cnblogs.com/wangfupeng1988   王福朋的个人博客
+http://www.cnblogs.com/wangfupeng1988   王福朋的个人博客<br>
+http://www.ruanyifeng.com/blog/    阮一峰的个人网络日志
